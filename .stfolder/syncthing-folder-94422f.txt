@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: toxkb-uans5
+created: 2025-12-10T18:31:38-07:00

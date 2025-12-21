@@ -1,0 +1,70 @@
+---
+Ascendencias:
+  - Enano
+  - Fauno
+  - Firbolg
+  - Fungril
+  - Galapa
+  - Gigante
+  - Goblin
+  - Halfling
+  - Humano
+  - Katari
+  - Ribbet
+  - Simiah
+Clases:
+  - Ranger
+  - Rouge
+  - Bard
+  - Seraph
+  - Sorcerer
+  - Druid
+  - Warrior
+Paises:
+  - Fanewick
+  - Haven
+  - Zona Neutra
+Ubicacion:
+  - Capital de Fanewick
+  - Capital de Haven
+  - Zona Neutra
+  - Altar de Fulg
+  - Mushbloom Enterprises
+  - Los Dados Manchados
+  - La Fosa de la Serpiente
+  - La Caricia del Petalo Rojo
+  - El Despojo Pétreo
+  - Noctury
+  - Havendi
+  - Yunque de Escamas
+  - Raices y Runas
+  - De Piedra Blanca
+  - Jardín de la Torre
+  - Gremio de la Carga Pétrea
+  - El Nido del Colibrí
+  - El Huevo Azul
+  - Asentamiento Clara Sombra
+  - Bosque de Fanewick
+  - Coliseo Oculto
+  - El Último Roble
+  - El Bosque Proveedor
+  - La Dentadura del Slime
+  - La Forja del Último Roble
+  - La Lágrima de la Driada
+  - La Lechuza Durmiente
+  - Desconodido
+Tipo de Ubicacion:
+  - Mundo
+  - Ciudad
+  - Distrito
+  - Tienda
+  - Otro
+  - Asentamiento
+  - País
+Estado:
+  - Vivo
+  - Muerto
+  - Desconocido
+  - Espectro
+  - Zombie
+---

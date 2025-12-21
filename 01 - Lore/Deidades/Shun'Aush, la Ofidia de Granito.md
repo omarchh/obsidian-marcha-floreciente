@@ -1,0 +1,14 @@
+---
+tags:
+  - Deidad
+---
+## Descripcion
+Shun'Aush La Ofidia de Granito es una [[Deidades]] que vive en los alrededores de las montañas del area cercana a {{Haven}}. está constituida mayormente por 3 tipos de minerales únicos en su cuerpo que no han sido encontrada en ningún otro lugar. 
+- El mineral de su piel es extremadamente duro, casi como el acero (metal). Le fue extraído después de su muerte para así poder utilizarlo en armas, armaduras y herramientas en Haven.
+- Los músculos, teóricamente están constituidos por un material más suave y arenoso, pero se fue secando internamente y quedó algo parecido al granito pero se desconoce su constitución. Los Havenitas utilizaron esta roca para crear la muralla gigante al descubrir que su cuerpo era tan resistente. Lamentablemente este mineral desprende polvo que causa la enfermedad de la serpiente si se inhala en grandes cantidades y se mezcla con la sangre de los seres vivos.
+- El esqueleto es extremadamente parecido al Mithril, pero no hay mucha información ya que quienes llegaron a verlo e intentaron sacarlo para crear armas y armaduras ahora están completamente petrificados. Estos datos los recabaron al explorar la cabeza de la Ofidia.
+## Historia
+Los fundadores de {{Haven}} deseaban liberarse de la influencia de las Divinidades Menores que dominaban las regiones circundantes. Idearon un plan para matar a una de las más poderosas de estas deidades, conocida como Shun'Aush, la Ofidia de Granito. Aunque su método exacto de deicidio se ha olvidado, su victoria aseguró el dominio de Haven en la región durante los siglos venideros. Hicieron su hogar tras sus restos, que se convirtieron en las imponentes murallas por las que Haven es conocida.
+## Consecuencias
+Mientras los havenitas tallaban su cuerpo pétreo, el fino polvo que quedaba se asentó en la tierra circundante. Hubo un tiempo de prosperidad durante muchos siglos mientras las escamas del dios permanecían inalteradas. Pero el progreso ejerce su propia presión. La creciente población exigía mayor productividad, y a medida que los agricultores araban un suelo más profundo y los mineros picaban la piedra oculta, el antiguo polvo de piedra ascendió a la superficie. Las mismas murallas que dieron seguridad a la ciudad se convirtieron en el crisol que incubó una plaga virulenta.
+En los últimos dos años, más de la mitad de la población de Haven sucumbió a una enfermedad conocida como la [[enfermedad de la serpiente]]. Primero, las víctimas tosen polvo. Poco después, su piel estalla en una erupción escamosa. Finalmente, su cuerpo se endurece: primero la carne, los huesos y los tejidos blandos, extendiéndose hasta que, finalmente, sus órganos se osifican. Una vez en los órganos, "la serpiente" se mueve tan rápido que los afectados se petrifican donde están, llenando Haven de estatuas de víctimas en sus últimos momentos de agonía.

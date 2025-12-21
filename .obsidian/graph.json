@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"tags\":Deidad]",
+      "color": {
+        "a": 1,
+        "rgb": 16775490
+      }
+    },
+    {
+      "query": "[\"tags\":NPC]",
+      "color": {
+        "a": 1,
+        "rgb": 40447
+      }
+    },
+    {
+      "query": "[\"tags\":PC]",
+      "color": {
+        "a": 1,
+        "rgb": 246272
+      }
+    },
+    {
+      "query": "[\"tags\":Lore]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "[\"tags\":Objeto]",
+      "color": {
+        "a": 1,
+        "rgb": 16758298
+      }
+    },
+    {
+      "query": "[\"tags\":Ubicacion]",
+      "color": {
+        "a": 1,
+        "rgb": 10354867
+      }
+    },
+    {
+      "query": "[\"tags\":País]",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
+    },
+    {
+      "query": "[\"tags\":Mundo]",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "[\"tags\":Narrativa]",
+      "color": {
+        "a": 1,
+        "rgb": 8191733
+      }
+    },
+    {
+      "query": "[\"tags\":ItemMágico]",
+      "color": {
+        "a": 1,
+        "rgb": 14745548
+      }
+    },
+    {
+      "query": "[\"tags\":Organizacion]",
+      "color": {
+        "a": 1,
+        "rgb": 7012352
+      }
+    },
+    {
+      "query": "[\"tags\":Compañero]",
+      "color": {
+        "a": 1,
+        "rgb": 11744
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.51998269896194,
+  "lineSizeMultiplier": 1.994723183391,
+  "collapse-forces": false,
+  "centerStrength": 0.295847750865052,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.09392927902846669,
+  "close": true
+}

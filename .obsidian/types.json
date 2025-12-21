@@ -1,0 +1,10 @@
+{
+  "types": {
+    "tags": "tags",
+    "Paises": "multitext",
+    "Clases": "multitext",
+    "Ascendencias": "multitext",
+    "Tipo de Ubicacion": "multitext",
+    "Estado": "multitext"
+  }
+}

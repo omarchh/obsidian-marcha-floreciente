@@ -1,0 +1,44 @@
+---
+tags:
+  - PC
+Ascendencias:
+  - Katari
+Clases:
+  - Ranger
+SubClase: Beastbound
+---
+## Descripcion fisica
+Ojos color verde con una mirada profunda y salvaje y una complexión delgada mediana. Su piel cubierta de un pelaje blanco con un camuflaje parecido al de los tigres con líneas café. Una cola delgada y peluda que complementa su cuerpo. Su rostro, afilado con forma de felino y unos colmillos que sobresalen un poco de los labios. Cabello rubio y lacio cubre su cabeza. Viste una falda de piel y blusa corta de piel con pelaje color café y barbas blancas. Muñequeras del mismo estilo que complementan el conjunto y un collar con colmillos blancos.
+## Personalidad
+A pesar de ser de apariencia amenazante, su actitud es seria, cautelosa y le pareciera difícil confiar al inicio en otras personas.
+## Comunidad
+La comunidad de Mokashira rondaba principalmente cerca de las montañas en el [[Bosque de Fanewick]].
+## Experiencias
+1. Conocimiento Animal
+2. Nomada Superviviente
+3. x
+4. x
+5. x
+## Preguntas base de creacion de personaje: 
+- Una criatura terrible ha dañado tu comunidad y has jurado cazarla. ¿Qué son y qué rastro o señal única dejan tras de sí?
+	- Unos {{Ogro}}s de las cuevas, estos seres dejan pisadas grandes con un desastre alrededor mezclando sangre de sus víctimas. Uno ataco mi comunidad cuando era pequeña.
+- Tu primer cacería casi te mata a ti también. ¿Qué fue y qué parte de ti nunca volvió a ser la misma después de ese suceso?
+	- Un {{Dire wolf}}, antes era insegura de lo que hacía, pero después de cazar al lobo comencé a tener más seguridad y valentía para mis próximas cazas y volverme mejor cazadora.
+- Has viajado por muchas tierras peligrosas, pero ¿cuál es el único lugar al que te niegas a ir?
+	- Las cuevas, ya que ahí viven los {{Ogro}}s que atacaron a mi comunidad.
+- ¿Qué haces para mantener tu pequeña comunidad segura, independiente y oculta de las fuerzas de Haven?
+	- [[Mokachino]] me ayudaba a supervisar los alrededores distinguiendo lo bueno y malo de las cosas.
+- Debido a la transitoriedad de su comunidad, tiene seres queridos tanto en Fanewick como en Haven. ¿Cómo ha afectado esto su relación con la invasión?
+	- División en comunicación debido a puntos de vista diferentes de cada reino.
+- Tu comunidad viaja para proteger algo. ¿Qué es y por qué les impide establecerse?
+	- Mokachino, mi fiel acompañante. El sabio de nuestra comunidad {{Goran Thornton}} lo encontro y desde entonces lo hemos encontrado. No se porque lo buscan cada que nos encuentran.
+
+## Otro
+### Familia
+- Hermana mayor: [[Mishishira]]
+- Tia [[Briony]]
+### Compañero
+[[Mokachino]]
+
+### Imagen
+![Mokashira.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CMokashira.jpg)
