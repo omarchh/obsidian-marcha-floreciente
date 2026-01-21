@@ -12,9 +12,11 @@ Al llegar a la orilla del lago, la party se dispone a descansar un poco, pero pr
 
 A la mitad del enfrentamiento, {{Yara}} aparece para ayudar a su interes romantico {{Hikuri}}. Al terminar la batalla, Yara les cuenta que esta en una mision de entregar una mensaje, si la persuaden pueden descubrir que ella va en direccion contraria de {{Mushbloom Enterprises}} y el mensaje es para el grupo de {{Faneghost}}. Yara mencionara que vio a unos bandidos o piratas en los alrededores y los dirigira hacia la cabaña cercana en la costa del lago donde los vio, que al parecer funciona como un pequeño muelle.
 
-En esa cabaña se establecieron hace poco unos piratas, invadiendola por completo y haciendo que sus dueños anteriores huyesen. Con una investigación (12) pueden descubrir 4 bolsas de oro escondidas entre los tablones del piso y un mensaje cifrado. El barco de los piratas pareciera estar en la costa, sin piratas a la vista ya que al parecer fueron a buscar alimento o al pueblo mas cercano a divertirse. Si la party intenta utilizar ese barco, se daran cuenta que necesitan al menos 10 personas para poder navegarlo.
+En esa cabaña se establecieron hace poco unos piratas, invadiendola por completo y haciendo que sus dueños anteriores huyesen. Con una investigación (12) pueden descubrir 4 bolsas de oro escondidas entre los tablones del piso y un mensaje cifrado y otro no cifrado, el mensaje no cifrado dice "Entregale esto a Darlyrin". El barco de los piratas pareciera estar en la costa, sin piratas a la vista ya que al parecer fueron a buscar alimento o al pueblo mas cercano a divertirse. Si la party intenta utilizar ese barco, se daran cuenta que necesitan al menos 10 personas para poder navegarlo.
 
-Habra un pequeño ataque de zombies. Al siguiente dia, un navio de {{Mushbloom Enterprises}} se vera a lo lejos, pudiendo hacerle señales para que los recoja o teniendo un problema en el barco haciendo que se acerque a la orilla. Cuando se acerca descubren que es dirigido por {{Blaze Carbon}}, quien conoce de vista a {{Hifa Mushbloom}} y trabaja para {{Mushbloom Enterprises}}. Despues de una charla y un par de ajustes al barco podran zarpar hacia el lago.
+Habra un pequeño ataque de zombies. 
+
+Al terminar el combate los jugadores se dieron cuenta que {{Blaze Carbon}} se encontraba en el barco dormido en su camarote. Su tripulacion los lleva por el lago y comienza a explicarles que hay 2 sujetos intentando capturar la atencion de {{Tharmel Mushbloom}} intentando hacer "negocios" con el.
 ## NPCs del capitulo
 - {{Yara}}
 - Capitan {{Blaze Carbon}}

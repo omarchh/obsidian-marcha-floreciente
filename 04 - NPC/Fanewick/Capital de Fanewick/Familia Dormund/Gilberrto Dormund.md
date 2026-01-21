@@ -14,3 +14,4 @@ Padre de [[Ribberto Dormund]], es un politico muy apreciado en los lares de {{Fa
 ## Personalidad
 
 ## Otros
+Navego en el barco de {{Blaze Carbon}} para un viaje de politica atravezando el lago de la zona neutra.

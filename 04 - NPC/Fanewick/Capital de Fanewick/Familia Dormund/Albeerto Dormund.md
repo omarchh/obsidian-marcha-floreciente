@@ -17,4 +17,4 @@ Tio de [[Ribberto Dormund]] / Parte de la rebelion de {{Fanewick}} y lider del g
 
 ## Otros
 - Amigo: [[Thalan Greytide]]
-- Hermano: [[X Dormund]]
+- Hermano: [[Gilberrto Dormund]]

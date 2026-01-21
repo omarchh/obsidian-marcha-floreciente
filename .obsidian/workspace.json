@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Narrativa/03 - La costa del lago.md",
+                "file": "06 - Narrativa/04 - Batalla Naval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - La costa del lago"
+              "title": "04 - Batalla Naval"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Narrativa/03 - La costa del lago.md",
+                "file": "06 - Narrativa/04 - Batalla Naval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 03 - La costa del lago"
+              "title": "Enlaces entrantes de 04 - Batalla Naval"
             }
           },
           {
@@ -215,8 +215,19 @@
               "icon": "lucide-list",
               "title": "Esquema de Gimmick Dhur"
             }
+          },
+          {
+            "id": "caa47f16933e4b89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,37 +241,38 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "34341aed30f49c95",
   "lastOpenFiles": [
+    "06 - Narrativa/03 - La costa del lago.md",
+    "06 - Narrativa/04 - Batalla Naval.md",
+    "04 - NPC/Fanewick/Bosque de Fanewick/Hojas Secas/Faneghost.md",
+    "01 - Lore/ItemsMágicos/Letargo invernal.md",
+    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Soliris Noctis.md",
+    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Selius Noctis.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Gilberrto Dormund.md",
+    "03 - PC/Waffle.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Dalyrin Veiledstone.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Blaze Carbon.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Albeerto Dormund.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Thalan Greytide.md",
     "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Casa D'Avilon.md",
     "02 - Ubicaciones/Haven/Capital de Haven/Distrito Noble Havendi/Distrito Havendi.md",
     "04 - NPC/Fanewick/Comunidad de Hikuri/Abuela Colibrí.md",
-    "03 - PC/Waffle.md",
     "04 - NPC/Fanewick/Capital de Fanewick/Alice Valentine.md",
     "Elian D'Avilon.md",
     "Morgiana D'Avilon.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Dalyrin Veiledstone.md",
     "Lysander D'Avilon.md",
     "Rook.md",
     "Valerian D'Avilon.md",
     "01 - Lore/ItemsMágicos/La Lagrima de la Memoria.md",
     "02 - Ubicaciones/Haven/Alrededores de Haven/Casa Valerius.md",
-    "06 - Narrativa/03 - La costa del lago.md",
-    "06 - Narrativa/04 - Batalla Naval.md",
     "03 - PC/Scalus Darkmoor.md",
-    "01 - Lore/ItemsMágicos/Letargo invernal.md",
     "01 - Lore/Objetos/Extracto Calmante.md",
     "01 - Lore/Objetos/Estasis Eterna.md",
-    "01 - Lore/ItemsMágicos/Brujula del ojo.md",
-    "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Barbecho del Alba.md",
-    "01 - Lore/Eventos/Misterios de Mokachino.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Blaze Carbon.md",
-    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Gimmick Dhur.md",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Thalan Greytide.md",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Hojas Secas/Faneghost.md",
     "04 - NPC/Haven/Capital de Haven/Castillo de Haven",
     "Archimago Phylax.jpg",
     "04 - NPC/Fanewick/Bosque de Fanewick/Familia de Mokashira",

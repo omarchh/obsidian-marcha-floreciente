@@ -31,7 +31,7 @@ SubClase: Wordsmith
 - Alguna vez intercambiaste un conocimiento importante por algo terrible. ¿Qué impartiste y qué obtuviste a cambio?
 	- Un secreto de familia para convertir la [[Dormisangre|flor azul espinas rojas]] para hacerla una poción que te transforma en zombie floreciente. Estaba en una carta con un secreto sumamente importante relacionado con mi padre, pero resultó que me dieron un recibo de un banquete.
 ## Otros
-- Padre [[X Dormund]]
+- Padre [[Gilberrto Dormund]]
 - Tio [[Albeerto Dormund]]
 ### Imagen
 ![Ribberto Dormund.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CRibberto%20Dormund.jpg)
