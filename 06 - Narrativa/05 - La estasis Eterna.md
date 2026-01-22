@@ -8,6 +8,6 @@ tags:
 
 ## NPCs del capitulo
 
-## Paginacion
-Capitulo anterior: 
-Capitulo siguiente: 
+## Paginación
+Capitulo anterior: [[04 - Batalla Naval]]
+Capitulo siguiente: [[06 - Pendiente]]

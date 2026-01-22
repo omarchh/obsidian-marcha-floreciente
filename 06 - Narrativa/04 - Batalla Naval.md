@@ -56,12 +56,12 @@ _"Escúchame bien, chispita (su apodo cariñoso para ella). Cuando llegues, tu p
 
 Mientras que esto sucede, un barco pirata intentara atacarlos creando así una batalla naval en contra de los jugadores.
 ## Enfrentamiento: Piratas al asecho
-Una banda de piratas tratara de abordar el navio para intentar robarles. En este enfrentamiento hay 2 contadores de tiempo que dependiendo cual se llene primero es la situacion a la cual se llegara.
+Una banda de piratas tratara de abordar el navío para intentar robarles. En este enfrentamiento hay 2 contadores de tiempo que dependiendo cual se llene primero es la situación a la cual se llegara.
 1. Habra una cuenta atrás de 10 (turnos enemigos, disparos de cañón, abordaje y movimiento en el barco aliado por parte del enemigo), esa cuenta atrás es lo que los enemigos tardaran en preparar un cañón especial para quemar "polvorines" de barcos, lo cual incendiara el barco. Si se llega a esto, {{La espora plateada}} no podrá navegar hasta ser reparado, permitiendo el abordaje completo de los piratas. Esto puede culminar en una batalla o en un hundimiento del {{La espora plateada}}.
 2. Habra una cuenta atrás de 10 (turnos aliados realizando maniobras evasivas, disparando cañones hacia el enemigo y eliminando o tirando a la borda enemigos), esta cuenta atrás es lo que el barco aliado tarda en llegar a un area con arrecifes de coral, los cuales no cualquier barco puede navegar, haciendo que el barco pirata se atore en el proceso.
 ## NPCs del capitulo
 - {{Blaze Carbon}}
 
-## Paginacion
+## Paginación
 Capitulo anterior: [[03 - La costa del lago]]
 Capitulo siguiente: [[05 - La estasis Eterna]]
