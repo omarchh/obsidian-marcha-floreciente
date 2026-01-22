@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"tags\":Deidad]",
       "color": {
         "a": 1,
-        "rgb": 16775490
+        "rgb": 16745861
       }
     },
     {
       "query": "[\"tags\":NPC]",
       "color": {
         "a": 1,
-        "rgb": 40447
+        "rgb": 3172508
       }
     },
     {
       "query": "[\"tags\":PC]",
       "color": {
         "a": 1,
-        "rgb": 246272
+        "rgb": 65493
       }
     },
     {
@@ -39,21 +39,21 @@
       "query": "[\"tags\":Objeto]",
       "color": {
         "a": 1,
-        "rgb": 16758298
+        "rgb": 18177
       }
     },
     {
       "query": "[\"tags\":Ubicacion]",
       "color": {
         "a": 1,
-        "rgb": 10354867
+        "rgb": 16743204
       }
     },
     {
       "query": "[\"tags\":País]",
       "color": {
         "a": 1,
-        "rgb": 6684927
+        "rgb": 0
       }
     },
     {
@@ -67,14 +67,14 @@
       "query": "[\"tags\":Narrativa]",
       "color": {
         "a": 1,
-        "rgb": 8191733
+        "rgb": 8553090
       }
     },
     {
       "query": "[\"tags\":ItemMágico]",
       "color": {
         "a": 1,
-        "rgb": 14745548
+        "rgb": 4963584
       }
     },
     {
@@ -88,7 +88,7 @@
       "query": "[\"tags\":Compañero]",
       "color": {
         "a": 1,
-        "rgb": 11744
+        "rgb": 5092095
       }
     }
   ],
@@ -97,11 +97,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.51998269896194,
   "lineSizeMultiplier": 1.994723183391,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.295847750865052,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.09392927902846669,
+  "scale": 0.0939292790284666,
   "close": true
 }

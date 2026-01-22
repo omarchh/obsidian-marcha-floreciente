@@ -17,3 +17,8 @@ Su lider "El Labrador del Alba" es en realidad {{Albeerto Dormund}}
 ## Lugares importantes
 
 ## Otro
+Miembros:
+- [[Thalan Greytide]]
+- [[Albeerto Dormund]]
+- [[Gilberrto Dormund]]
+- [[Gimmick Dhur]] (infiltrado)
