@@ -33,6 +33,13 @@ Sereno y firme, la presencia de Hikuri inspira respeto sin necesidad de violenci
 	- Debido a lo nómada de mi comunidad he creado lazos cercanos con ambas partes involucradas. La invasión me trae incertidumbre al no saber qué ha pasado con mis aliados.
 - Tu comunidad viaja para proteger algo. ¿Qué es y por qué les impide establecerse?
 	- Mi comunidad es neutral y no queremos involucrarnos con los invasores o con los invadidos. En una de nuestras travesías, encontramos un papiro que podría cambiar el curso de la invasión para ambos lados.
+## Conexiones
+1. ¿Qué promesa me hiciste aceptar en caso de que murieras en el campo de batalla?
+	- {{Scalus Darkmoor}} - En caso de morir me hizo prometer cuidar a todos y cada uno de los miembros del grupo. 
+2. ¿Por qué me haces tantas preguntas sobre mi dios?
+	- {{Violet}} - Siempre me pregunta por curiosidad hacia las plantas y en caso de ser la planta que ella busca, quiere usarla.
+3. Me has dicho que proteja a un miembro de nuestro grupo por encima de todos los demás, incluso por encima de ti. ¿Quién es esa persona y por qué?
+	- {{Ribberto Dormund}} - Proteger a {{Hifa Mushbloom}}, para poder tenerla como aliada en después de la guerra.
 ## Otros
 ### Imagen
 ![Hikuri el caminante.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CHikuri%20el%20caminante.jpg)

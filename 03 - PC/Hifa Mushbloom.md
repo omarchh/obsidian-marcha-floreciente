@@ -7,7 +7,7 @@ Clases:
   - Sorcerer
 SubClase: Primal origin
 ---
-## Descripcion fisica
+## Descripción física
 Su figura es alargada, pero de complexión media, tiene piel púrpura orquídea, con vetas fúngicas que brillan débilmente bajo la luz, y ojos como amatistas líquidas, Hifa siempre viste con telas flotantes de hilos de micelio encantado, suaves al tacto, pero resistentes como las raíces del bosque.
 ## Personalidad
 Hifa Mushbloom es una fungril nacida en una de las familias más influyentes de la sociedad urbana de Virellen. Hija única del magnate [[Tharmel Mushbloom]], director de {{Mushbloom Enterprises}}, una poderosa compañía fundada por su familia que mezcla comercio, moda y manufactura de artefactos mágicos de lujo.
@@ -36,7 +36,13 @@ Aunque fue educada para ser una figura pública, sus poderes se manifestaron en 
 	+ Nuestra riqueza viene del comercio de productos mágicos de lujo: perfumes vivientes, artefactos cultivables, ropa hecha de micelio encantado. Todo extraído de territorios silvestres “protegidos” por acuerdos legales que solo los versados en el tema entienden. La filosofía Mushbloom siempre ha sido simple: si puedes hacerlo ver hermoso, entonces puedes venderlo. No estoy en desacuerdo con esa ética, pero quiero pensar que la estoy redefiniendo a mi forma de ver el mundo.
 - Creciste en un mundo de abundancia, pero te impidieron aprender algo sobre el mundo. ¿Qué era ese conocimiento y cuándo lo descubriste?
 	+ Nadie me enseñó que la naturaleza no es una fuente inagotable. Me educaron como si todo recurso, ya sea mágico o material, estuviera allí para ser extraido, refinado, embotellado y vendido. El golpe de realidad vino cuando conocí a Maeril, quien me enseñó el daño y el desequilibrio que ocasionaba la explotación excesiva de los recursos. También aprendí que el verdadero lujo no está en lo material sino en las vivencias y recuerdos que podemos construir.
-
+## Conexiones
+1. ¿Por qué confías tanto en mí?
+	- {{Ribberto Dormund}} - Nos encontramos en reunión entre empresarios y diplomáticos de la ciudad, nuestras ideologías van encaminadas a la protección y progreso del pueblo. Conocemos la realidad del mundo y queremos aprovechar nuestras fortalezas para mejorar la situación 
+2. ¿Qué hice para que te muestres tan cauteloso/a conmigo?
+	- {{Scalus Darkmoor}} - mi estatus te incomoda, aunque conoces las formas de actuar ante la alta sociedad y te manejas bien en esos ambientes, por tu "intuición" hay algo en mi que te hace desconfiar.
+3. ¿Por qué mantenemos en secreto nuestro pasado compartido?
+	- {{Waffle}} - Sé muy pocas cosas de ti, hay muchas historias que escuché de Maeril (una botánica/druida que trabajaba en los invernaderos privados de mi familia). Para mi eres parte del grupo de amigos de Maeril que fueron exiliados y desde que fue despedida de sus labores en mi hogar he intentado reencontrarla. He buscado a Feriberd, Roydale y a ti, porque son a quienes Maeril me describió. Cuando te encontré y te mencioné su nombre solo obtuve una mirada triste y actitud hermética pero comprensiva, desde entonces sabemos que podemos confiar el uno el otro pero tenemos pocos encuentros.
 ## Otros
 ### Familia
 - [[Jerina Mushbloom]]: Hermana

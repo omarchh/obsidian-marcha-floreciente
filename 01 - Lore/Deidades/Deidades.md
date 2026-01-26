@@ -8,3 +8,4 @@ Es el nombre con el que se les conoce a las criaturas con gran poder en [[las ti
 - [[Nikta, la Pastora de las Estaciones]]
 - [[Oove, el visor del florecer nocturno]]
 - [[Shun'Aush, la Ofidia de Granito]]
+- [[Ikla, la pintora del cielo]]
