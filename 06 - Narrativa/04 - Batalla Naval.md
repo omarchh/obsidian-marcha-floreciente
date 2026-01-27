@@ -16,7 +16,6 @@ La party ahora deberia estar en el barco de {{Blaze Carbon}}, navegando hacia el
 "Tu padre, Tharmel... está bien de salud, Hifa. Pero está **agobiado**. La fábrica nunca ha tenido tanta demanda, pero no es la demanda habitual. Es... presión. La clase de presión que no viene del mercado, sino de espadas veladas."
 
 ---
-
 ### **Las Pistas que Blaze Puede Dar (De forma natural, no todo de golpe):**
 
 **1. Sobre los Dos "Nobles" Visitantes:**  

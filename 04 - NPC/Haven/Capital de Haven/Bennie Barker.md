@@ -11,9 +11,9 @@ Ubicacion:
 ## Descripcion fisica
 
 ## Descripcion de rol
-Es el fauno que entrega el mensaje a la party conteniendo una vaga descripcion de la mision provista por [[Kreil Dirn]]. Está buscando múltiples grupos de aventureros para conseguir un batallon que pueda interferir con los planes de {{Faneghost}}.
+Es el fauno que entrega el mensaje a la party conteniendo una vaga descripción de la misión provista por [[Kreil Dirn]]. Está buscando múltiples grupos de aventureros para conseguir un batallón que pueda interferir con los planes de {{Faneghost}}.
 ## Personalidad
-Es un tipo muy relajado que a pesar de verse como un Fauno cualquiera sin talento, puede ser un agil corredor al momento de perseguir o escapar.
+Es un tipo muy relajado que a pesar de verse como un Fauno cualquiera sin talento, puede ser un ágil corredor al momento de perseguir o escapar.
 ## Otros
 
 ### Imagen

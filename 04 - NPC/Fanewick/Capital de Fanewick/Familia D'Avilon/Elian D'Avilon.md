@@ -16,3 +16,5 @@ Es el **arquitecto** de la alianza con Haven en Fanewick. Se comunica directam
 Es frío, calculador y paciente. Habla con una calma aterradora. No grita; sus amenazas son susurradas y absolutas. Es un maestro de la política y los pactos oscuros. Ve a su familia como un legado que debe ser purificado y elevado a cualquier costo, y a Alice Valentine como un obstáculo insignificante que fue removido con la elegancia necesaria.
 ## Otros
 Padre de [[Valerian D'Avilon]] y [[Lysander D'Avilon]]
+## Imagen
+![Elian D'avilon.jpeg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CElian%20D'avilon.jpeg)

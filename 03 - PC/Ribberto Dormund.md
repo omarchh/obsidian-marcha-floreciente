@@ -40,5 +40,6 @@ SubClase: Wordsmith
 ## Otros
 - Padre [[Gilberrto Dormund]]
 - Tio [[Albeerto Dormund]]
+- {{Silvana Valerius}} fue quien le rompió el corazón.
 ### Imagen
 ![Ribberto Dormund.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CRibberto%20Dormund.jpg)
