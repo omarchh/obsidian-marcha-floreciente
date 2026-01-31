@@ -42,7 +42,7 @@ Aunque fue educada para ser una figura pública, sus poderes se manifestaron en 
 2. ¿Qué hice para que te muestres tan cauteloso/a conmigo?
 	- {{Scalus Darkmoor}} - mi estatus te incomoda, aunque conoces las formas de actuar ante la alta sociedad y te manejas bien en esos ambientes, por tu "intuición" hay algo en mi que te hace desconfiar.
 3. ¿Por qué mantenemos en secreto nuestro pasado compartido?
-	- {{Waffle}} - Sé muy pocas cosas de ti, hay muchas historias que escuché de Maeril (una botánica/druida que trabajaba en los invernaderos privados de mi familia). Para mi eres parte del grupo de amigos de Maeril que fueron exiliados y desde que fue despedida de sus labores en mi hogar he intentado reencontrarla. He buscado a Feriberd, Roydale y a ti, porque son a quienes Maeril me describió. Cuando te encontré y te mencioné su nombre solo obtuve una mirada triste y actitud hermética pero comprensiva, desde entonces sabemos que podemos confiar el uno el otro pero tenemos pocos encuentros.
+	- {{Waffle}} - Sé muy pocas cosas de ti, hay muchas historias que escuché de {{Maeril}} (una botánica/druida que trabajaba en los invernaderos privados de mi familia). Para mi eres parte del grupo de amigos de Maeril que fueron exiliados y desde que fue despedida de sus labores en mi hogar he intentado reencontrarla. He buscado a Feriberd, Roydale y a ti, porque son a quienes Maeril me describió. Cuando te encontré y te mencioné su nombre solo obtuve una mirada triste y actitud hermética pero comprensiva, desde entonces sabemos que podemos confiar el uno el otro pero tenemos pocos encuentros.
 ## Otros
 ### Familia
 - [[Jerina Mushbloom]]: Hermana

@@ -21,5 +21,5 @@ Al terminar el combate los jugadores se dieron cuenta que {{Blaze Carbon}} se en
 - {{Yara}}
 - Capitan {{Blaze Carbon}}
 ## Paginacion
-Capitulo siguiente: [[04 - Batalla Naval]]
+Capitulo siguiente: [[04 - El viaje de La espora plateada]]
 Capitulo anterior: [[02 - El Camino Elegido]]
