@@ -26,3 +26,5 @@ Conoce cada truco del juego social: cuándo hablar, cuándo callar, y sobre todo
 - [[Liora Mushbloom]]: Esposa
 - [[Hifa Mushbloom]]: Hija menor
 - [[Jerina Mushbloom]]: Hija mayor
+## Imagen
+![Tharmel Mushbloom.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CTharmel%20Mushbloom.png)

@@ -23,3 +23,5 @@ Aunque tiene una personalidad más suave y empática que el de otros miembros de
 - [[Hifa Mushbloom]]: Hermana
 - [[Liora Mushbloom]]: Madre
 - [[Tharmel Mushbloom]]: Padre
+## Imagen
+![Jerina Mushbloom.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CJerina%20Mushbloom.png)

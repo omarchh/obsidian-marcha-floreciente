@@ -7,7 +7,7 @@ Tipo de Ubicacion:
   - Casa Noble
 ---
 ## Descripcion
-Es una casa noble del [[Bosque de Fanewick]]. La mama de Waffle, [[Alice Valentine]], les servia en diferentes ambitos del hogar. Ellos le dieron el collar de [[La Lagrima de la Memoria]] por accidente como una recompensa de su trabajo bien hecho, creyendo que era un simple collar pero se dieron cuenta muy tarde lo que habian perdido.
+Es una casa noble de la [[Capital de Fanewick]]. La mama de Waffle, [[Alice Valentine]], les servia en diferentes ambitos del hogar. Ellos le dieron el collar de [[La Lagrima de la Memoria]] por accidente como una recompensa de su trabajo bien hecho, creyendo que era un simple collar pero se dieron cuenta muy tarde lo que habian perdido.
 ## Historia
 - **Casa d'Avilon** (del "Valle Alto" en un lenguaje antiguo, sugiere nobleza de larga data y conexión con la tierra).
 - **Motivación para el collar:** No lo quieren por su valor mágico (quizás ni siquiera lo conocen), sino por su **valor histórico y como símbolo de estatus**. Perteneció a una figura famosa del pasado, quizás una heroína o una gran artista, y poseerlo les da prestigio.    

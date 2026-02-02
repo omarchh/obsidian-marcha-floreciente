@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9229f4b5af9dd561",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Narrativa/04 - Batalla Naval.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04 - Batalla Naval"
-            }
-          },
-          {
             "id": "3d04c76ef1becf81",
             "type": "leaf",
             "pinned": true,
@@ -38,27 +22,6 @@
               "icon": "lucide-file",
               "title": "Blaze Carbon"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c3c7bff9df6f8c8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fc4618bfb1bf4e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Gilberrto Dormund.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gilberrto Dormund"
-            }
           },
           {
             "id": "4a7f119966d4334f",
@@ -66,12 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Thalan Greytide.md",
+                "file": "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Soliris Noctis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thalan Greytide"
+              "title": "Soliris Noctis"
+            }
+          },
+          {
+            "id": "1fc4618bfb1bf4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Narrativa/05 - La estasis Eterna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - La estasis Eterna"
             }
           },
           {
@@ -87,21 +64,14 @@
               "icon": "lucide-file",
               "title": "Estasis Eterna"
             }
-          },
-          {
-            "id": "3712a129cd27ce10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maeril.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maeril"
-            }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c3c7bff9df6f8c8e",
+        "type": "tabs",
+        "children": [
           {
             "id": "43be07537b4ab1f2",
             "type": "leaf",
@@ -114,8 +84,7 @@
               "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,34 +257,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d04c76ef1becf81",
+  "active": "82ebd9d4a669d100",
   "lastOpenFiles": [
+    "02 - Ubicaciones/Haven/Alrededores de Haven/Casa Valerius.md",
+    "01 - Lore/ItemsMágicos/Brujula del ojo.md",
+    "01 - Lore/ItemsMágicos/Susurro de Shun'Aush.md",
+    "06 - Narrativa/05 - La estasis Eterna.md",
+    "01 - Lore/Objetos/Dormisangre.md",
+    "03 - PC/Waffle.md",
+    "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Casa D'Avilon.md",
+    "01 - Lore/ItemsMágicos/Letargo invernal.md",
+    "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Barbecho del Alba.md",
+    "02 - Ubicaciones/Las tierras florecientes.md",
+    "02 - Ubicaciones/Zona Neutra/Mushbloom Enterprises.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Borin “Raíz Dura” Kreel.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Dalyrin Veiledstone.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Tharmel Mushbloom.md",
+    "02 - Ubicaciones/Zona Neutra/Zona neutra.md",
+    "Mushbloom Enterprises - Entrada 2.jpg",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Gilberrto Dormund.md",
+    "03 - PC/Hifa Mushbloom.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Jerina Mushbloom.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Liora Mushbloom.md",
+    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Soliris Noctis.md",
+    "06 - Narrativa/03.2 - El viaje a Mushbloom Enterprises.md",
+    "01 - Lore/Objetos/Estasis Eterna.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Blaze Carbon.md",
     "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Albeerto Dormund.md",
     "conflict-files-obsidian-git.md",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Gilberrto Dormund.md",
-    "06 - Narrativa/03.2 - El viaje a Mushbloom Enterprises.md",
     "06 - Narrativa/04 - El viaje de La espora plateada.md",
-    "06 - Narrativa/03 - La costa del lago.md",
-    "06 - Narrativa/05 - La estasis Eterna.md",
-    "02 - Ubicaciones/Zona Neutra/Mushbloom Enterprises.md",
-    "02 - Ubicaciones/Las tierras florecientes.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Borin “Raíz Dura” Kreel.md",
-    "06 - Narrativa/02.1 - La travesia del Fauno.md",
-    "06 - Narrativa/01 - El incidente detonante.md",
-    "06 - Narrativa/02 - El Camino Elegido.md",
-    "03 - PC/Scalus Darkmoor.md",
-    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Selius Noctis.md",
-    "03 - PC/Waffle.md",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Thalan Greytide.md",
-    "01 - Lore/Objetos/Estasis Eterna.md",
-    "Maeril.md",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Comunidad de Mokashira/Briony.md",
-    "03 - PC/Hifa Mushbloom.md",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Comunidad de Mokashira/Mishishira.md",
-    "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Barbecho del Alba.md",
-    "03 - PC/Ribberto Dormund.md",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia D'Avilon/Elian D'Avilon.md",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia D'Avilon/Morgiana D'Avilon.md",
     "Elian D'avilon.jpeg",
     "04 - NPC/Fanewick/Capital de Fanewick/Familia D'Avilon",
     "04 - NPC/Haven/Capital de Haven/Castillo de Haven",

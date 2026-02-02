@@ -11,7 +11,7 @@ SubClase: Nightwalker
 
 ## Personalidad
 ## Comunidad
-Proveniente de la [[Bosque de Fanewick]], pero tuvo que escapar debido a que "robo" un collar, el único recuerdo de su madre [[Alice Valentine]], de una familia noble de la {{Capital de Fanewick}}.
+Proveniente de la [[Capital de Fanewick]], pero tuvo que escapar debido a que "robo" un collar, el único recuerdo de su madre [[Alice Valentine]], de una familia noble de la {{Capital de Fanewick}}.
 ## Experiencias
 1. **Maestro comerciante**: El arte del regateo es como parte de mi personalidad. Conozco bien los costos de producción de objetos y que tan raros pueden ser.
 2. **Maestro del escape**: Al estar escapando todo el tiempo, encuentro facil una ruta de escape optima para evitar ser alcanzado, encontrado o incluso aparentar que no soy a quien persiguen.

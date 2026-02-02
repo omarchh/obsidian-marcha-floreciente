@@ -27,3 +27,5 @@ Habla poco, pero cuando lo hace, sus palabras parecen resonar más allá del mom
 - [[Hifa Mushbloom]]: Hija Menor
 - [[Jerina Mushbloom]]: Hija mayor
 - [[Tharmel Mushbloom]]: Padre
+## Imagen
+![Liora Mushbloom.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CLiora%20Mushbloom.png)
