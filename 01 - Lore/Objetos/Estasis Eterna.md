@@ -8,4 +8,6 @@ Se encuentra actualmente en [[Mushbloom Enterprises]], oculto ya que es el únic
 ## Otro
 Se puede utilizar en diferentes objetos potentes.
 - {{Haven}} esta buscando utilizarlo para crear la {{Brujula del ojo}} que les ayudara a encontrar el ojo de la cosecha.
-- La organización {{Barbecho del Alba}} esta intentando utilizar este núcleo para un {{Letargo invernal}}, objeto que quieren utilizar para dormir a {{Nikta, la Pastora de las Estaciones|Nikta}} y poder utilizar su {{Ojo de la siembra}}.
+- La organización {{Barbecho del Alba}} esta intentando utilizar este núcleo para un {{Letargo Magico}}, objeto que quieren utilizar para dormir a {{Nikta, la Pastora de las Estaciones|Nikta}} y poder utilizar su {{Ojo de la siembra}}.
+## Imagen
+![Estasis Eterna.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CImagenes%5CObjetos%20y%20demas%5CObjetos%20Magicos%5CEstasis%20Eterna.png)

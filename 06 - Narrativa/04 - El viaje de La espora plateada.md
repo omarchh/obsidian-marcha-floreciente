@@ -23,7 +23,7 @@ La party ahora deberia estar en el barco de {{Blaze Carbon}}, navegando hacia el
 
 - **{{Brujula del ojo}} - {{Gimmick Dhur}}:** _"Uno es un tipo afable, demasiado afable. Se llama Dhur, Gimmick Dhur. Un 'buscador de antigüedades', dice. Siempre sonriendo, siempre con una palabra amable para todos. Pero sus ojos... sus ojos nunca sonríen. Pregunta mucho por los **archivos de localización arcana**, por los planos de cosas que puedan 'olfatear magia vieja'. Tu padre ha estado sacando tomos polvorientos del sótano que no veía la luz desde antes de que tú nacieras."_
     
-- **{{Letargo invernal}} - {{Elian D'Avilon}}:** _"El otro... ese sí me pone las escamas de punta. No se presenta con nombre completo, solo como 'el emisario'. Habla con una calma que hiela la sangre como si supiera que no pueden rechazar sus palabras. No pide, sugiere_. Y sus sugerencias son sobre **supresión, atenuación, 'apaciguamiento'**. Usa palabras como 'letargo' y 'estasis'. Lo he visto hablar con Dalyrin del Departamento de Creación, y el pobre Dalyrin parece un ratón frente a una serpiente."_
+- **{{Letargo magico}} - {{Elian D'Avilon}}:** _"El otro... ese sí me pone las escamas de punta. No se presenta con nombre completo, solo como 'el emisario'. Habla con una calma que hiela la sangre como si supiera que no pueden rechazar sus palabras. No pide, sugiere_. Y sus sugerencias son sobre **supresión, atenuación, 'apaciguamiento'**. Usa palabras como 'letargo' y 'estasis'. Lo he visto hablar con Dalyrin del Departamento de Creación, y el pobre Dalyrin parece un ratón frente a una serpiente."_
     
 
 **2. Sobre el Estado de la Fábrica y los Empleados:**
