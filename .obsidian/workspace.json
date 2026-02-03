@@ -8,37 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d04c76ef1becf81",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - NPC/Zona Neutra/Mushbloom Enterprises/Blaze Carbon.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Blaze Carbon"
-            }
-          },
-          {
-            "id": "4a7f119966d4334f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Soliris Noctis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soliris Noctis"
-            }
-          },
-          {
             "id": "1fc4618bfb1bf4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - PC/Mokachino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mokachino"
+            }
+          },
+          {
+            "id": "844530b274936241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Lore/Eventos/Misterios de Mokachino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Misterios de Mokachino"
+            }
+          },
+          {
+            "id": "f1a69a70d44cdcd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +67,23 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "243acb447227c39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grindilda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grindilda"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +256,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fc4618bfb1bf4e0",
+  "active": "243acb447227c39e",
   "lastOpenFiles": [
-    "01 - Lore/ItemsMágicos/Letargo Magico.md",
     "06 - Narrativa/05 - La estasis Eterna.md",
+    "06 - Narrativa/03.2 - El viaje a Mushbloom Enterprises.md",
+    "Grindilda.md",
+    "01 - Lore/Eventos/Misterios de Mokachino.md",
+    "03 - PC/Mokachino.md",
+    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Soliris Noctis.md",
+    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Blaze Carbon.md",
+    "03 - PC/Waffle.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia de Waffle/Alice Valentine.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia de Waffle/Jorge Valentine.md",
+    "04 - NPC/Fanewick/Capital de Fanewick/Familia de Waffle",
+    "01 - Lore/ItemsMágicos/Letargo Magico.md",
     "06 - Narrativa/04 - El viaje de La espora plateada.md",
     "01 - Lore/ItemsMágicos/Susurro de Shun'Aush.md",
     "01 - Lore/Objetos/Estasis Eterna.md",
@@ -261,17 +284,8 @@
     "01 - Lore/Objetos/Azulespina Voraz.md",
     "01 - Lore/Objetos/Dormisangre.md",
     "02 - Ubicaciones/Haven/Alrededores de Haven/Casa Valerius.md",
-    "03 - PC/Waffle.md",
     "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Casa D'Avilon.md",
-    "02 - Ubicaciones/Fanewick/Bosque de Fanewick/Barbecho del Alba.md",
-    "02 - Ubicaciones/Las tierras florecientes.md",
-    "02 - Ubicaciones/Zona Neutra/Mushbloom Enterprises.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Borin “Raíz Dura” Kreel.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Dalyrin Veiledstone.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Tharmel Mushbloom.md",
-    "02 - Ubicaciones/Zona Neutra/Zona neutra.md",
     "Mushbloom Enterprises - Entrada 2.jpg",
-    "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Gilberrto Dormund.md",
     "Elian D'avilon.jpeg",
     "04 - NPC/Fanewick/Capital de Fanewick/Familia D'Avilon",
     "04 - NPC/Haven/Capital de Haven/Castillo de Haven",
@@ -285,7 +299,6 @@
     "04 - NPC/Zona Neutra",
     "04 - NPC/Haven/Capital de Haven/Noctury",
     "04 - NPC/Haven/Capital de Haven/Havendi",
-    "04 - NPC/Haven/Alrededores de Haven/Pastizales Florecientes",
     "Sin título.canvas"
   ]
 }

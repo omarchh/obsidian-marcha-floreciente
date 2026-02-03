@@ -25,7 +25,7 @@ Los jugadores (quizás guiados por Jerina o aprovechando un descuido) llegan a l
 **2. Lord Elian D'Avilon** (a la derecha, sentado con una calma glacial):
 - **Su Discurso (voz baja, impregnada de autoridad):** _"La violencia genera más violencia, querido Tharmel. La petrificación es un exceso de energía, un desborde. El {{Letargo magico|Letargo}} que propongo es un **acto de compasión controlada**. Absorbe el exceso, calma el fenómeno, _libera_ a la víctima sin necesidad de más destrucción. Es la solución _civilizada_."_
 - **Su Táctica:** Apela al **orgullo de Tharmel como artesano y pacificador**. Ofrece una solución que parece más inteligente, elegante y menos destructiva. Es un **canto de sirena de control y superioridad moral**.
-- 
+
 **Tharmel** se ve **desgarrado**. Frota sus "sombrerillos" (un gesto de estrés). _"Uno habla de un martillo, el otro de un paño de seda. Ambos dicen limpiar la mancha, pero la mancha es una persona. ¿Cómo elijo?"_
 ### **La Entrada de los Jugadores (y el Clímax)**
 Este es el momento perfecto para que **Hifa entre**, seguida por el grupo. La dinámica cambia instantáneamente.

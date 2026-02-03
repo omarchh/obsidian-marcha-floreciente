@@ -8,8 +8,9 @@ Clases:
 SubClase: Nightwalker
 ---
 ## Descripción física
-
+Es un Simiah con pelaje café grisáceo, con una altura al rededor de los 4 pies y medio. Porta ropajes un poco maltratados por el camino, ya que a partir de la muerte de su madre ha vivido su vida como huérfano y sin hogar.
 ## Personalidad
+Es muy directo al punto y casi no habla si no es necesario. Oculta secretos como el que trae un collar ([[La Lagrima de la Memoria]]) que es un recuerdo de su madre fallecida. Tambien esta escapando de los D'Avilon, quienes quieren recuperar el collar a toda costa.
 ## Comunidad
 Proveniente de la [[Capital de Fanewick]], pero tuvo que escapar debido a que "robo" un collar, el único recuerdo de su madre [[Alice Valentine]], de una familia noble de la {{Capital de Fanewick}}.
 ## Experiencias
@@ -38,6 +39,9 @@ Proveniente de la [[Capital de Fanewick]], pero tuvo que escapar debido a que "r
 	- Me entere que a {{Scalus Darkmoor}} lo intento matar, un elfo oscuro
 3. ¿A quién conoces de mi pasado y cómo han influido esas personas en tus sentimientos hacia mí?
 	- {{Mokashira}} conoce a [[Maeril]] (una botánica/druida) y debido a eso tome confianza con ella 
-## Otros
+## Familia
+- [[Alice Valentine]] madre
+- [[Jorge Valentine]] padre
+- [[Maeril]] amiga de la familia
 ### Imagen
 ![Waffle.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CWaffle.jpg)
