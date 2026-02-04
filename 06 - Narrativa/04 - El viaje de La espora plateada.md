@@ -23,7 +23,7 @@ La party ahora deberia estar en el barco de {{Blaze Carbon}}, navegando hacia el
 
 - **{{Brujula del ojo}} - {{Gimmick Dhur}}:** _"Uno es un tipo afable, demasiado afable. Se llama Dhur, Gimmick Dhur. Un 'buscador de antigüedades', dice. Siempre sonriendo, siempre con una palabra amable para todos. Pero sus ojos... sus ojos nunca sonríen. Pregunta mucho por los **archivos de localización arcana**, por los planos de cosas que puedan 'olfatear magia vieja'. Tu padre ha estado sacando tomos polvorientos del sótano que no veía la luz desde antes de que tú nacieras."_
     
-- **{{Letargo invernal}} - {{Elian D'Avilon}}:** _"El otro... ese sí me pone las escamas de punta. No se presenta con nombre completo, solo como 'el emisario'. Habla con una calma que hiela la sangre como si supiera que no pueden rechazar sus palabras. No pide, sugiere_. Y sus sugerencias son sobre **supresión, atenuación, 'apaciguamiento'**. Usa palabras como 'letargo' y 'estasis'. Lo he visto hablar con Dalyrin del Departamento de Creación, y el pobre Dalyrin parece un ratón frente a una serpiente."_
+- **{{Letargo magico}} - {{Elian D'Avilon}}:** _"El otro... ese sí me pone las escamas de punta. No se presenta con nombre completo, solo como 'el emisario'. Habla con una calma que hiela la sangre como si supiera que no pueden rechazar sus palabras. No pide, sugiere_. Y sus sugerencias son sobre **supresión, atenuación, 'apaciguamiento'**. Usa palabras como 'letargo' y 'estasis'. Lo he visto hablar con Dalyrin del Departamento de Creación, y el pobre Dalyrin parece un ratón frente a una serpiente."_
     
 
 **2. Sobre el Estado de la Fábrica y los Empleados:**
@@ -52,12 +52,6 @@ _"Escúchame bien, chispita (su apodo cariñoso para ella). Cuando llegues, tu p
 **Tono final de Blaze:** Se queda en silencio un momento, mirando la niebla. _"El lago solía reflejar el cielo con claridad. Ahora solo refleja niebla y secretos. No dejen que la fábrica se convierta en lo mismo."_
 
 {{La espora plateada}}, esta disfrazado sin sus banderas e insignias distintivas, de manera que no sea tan reconocible por cualquiera, ya que Blaze esta tenso al estar haciendo entregas un poco "urgentes" debido a los nobles que estan intentando convencer a {{Tharmel Mushbloom}} de sus artefactos.
-
-Mientras que esto sucede, un barco pirata intentara atacarlos creando así una batalla naval en contra de los jugadores.
-## Enfrentamiento: Piratas al asecho
-Una banda de piratas tratara de abordar el navío para intentar robarles. En este enfrentamiento hay 2 contadores de tiempo que dependiendo cual se llene primero es la situación a la cual se llegara.
-1. Habra una cuenta atrás de 10 (turnos enemigos, disparos de cañón, abordaje y movimiento en el barco aliado por parte del enemigo), esa cuenta atrás es lo que los enemigos tardaran en preparar un cañón especial para quemar "polvorines" de barcos, lo cual incendiara el barco. Si se llega a esto, {{La espora plateada}} no podrá navegar hasta ser reparado, permitiendo el abordaje completo de los piratas. Esto puede culminar en una batalla o en un hundimiento del {{La espora plateada}}.
-2. Habra una cuenta atrás de 10 (turnos aliados realizando maniobras evasivas, disparando cañones hacia el enemigo y eliminando o tirando a la borda enemigos), esta cuenta atrás es lo que el barco aliado tarda en llegar a un area con arrecifes de coral, los cuales no cualquier barco puede navegar, haciendo que el barco pirata se atore en el proceso.
 ## NPCs del capitulo
 - {{Blaze Carbon}}
 

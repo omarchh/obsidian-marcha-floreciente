@@ -9,3 +9,6 @@ Un artefacto pequeño, del tamaño de una mano, que parece un **cristal prismá
 - **Origen:** Es una **tecnología/arcanotecnia híbrida de {{Haven}}**, creada a partir del estudio del polvo de {{Shun'Aush, la Ofidia de Granito}}. Haven los usa para **silenciar espías, interrumpir comunicaciones mágicas y eliminar testigos** sin dejar rastro de violencia física. Es el arma perfecta para una guerra fría mágica.
     
 - **¿Quién lo usó?** Es casi seguro que agentes de Haven bajo ordenes de {{Selius Noctis}} lo usaron para presionar a {{Mushbloom Enterprises}} a ayudarlo a crear la {{Brujula del ojo}}. Probablemente era de un espía del Barbecho del Alba o un simple testigo que descubrió algo que no debía en los alrededores de la fábrica.
+
+## Imagen
+![Susurro de Shun'Aush.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CImagenes%5CObjetos%20y%20demas%5CObjetos%20Magicos%5CSusurro%20de%20Shun'Aush.png)

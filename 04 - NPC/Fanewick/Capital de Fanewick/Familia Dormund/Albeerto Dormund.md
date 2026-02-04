@@ -10,9 +10,9 @@ Ubicacion:
 Estado:
   - Vivo
 ---
-## Descripcion fisica
-## Descripcion de rol
-Tio de [[Ribberto Dormund]] / Parte de la rebelion de {{Fanewick}} y lider del grupo [[Barbecho del Alba]].
+## Descripción física
+## Descripción de rol
+Tío de [[Ribberto Dormund]] / Parte de la rebelión de {{Fanewick}} y líder del grupo [[Barbecho del Alba]].
 ## Personalidad
 
 ## Otros

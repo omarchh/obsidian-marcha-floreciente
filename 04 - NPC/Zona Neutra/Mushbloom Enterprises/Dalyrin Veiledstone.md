@@ -20,3 +20,5 @@ Aunque su relación con la familia es principalmente profesional, algunos rumore
 ## Personalidad
 Dalyrin es extremadamente detallista y perfeccionista, con un enfoque casi obsesivo por lograr que cada pieza de la línea de productos Mushbloom no solo sea funcional, sino también una obra de arte de la naturaleza y la magia.
 ## Otros
+## Imagen
+![Dalyrin Vieledstone.jpeg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CDalyrin%20Vieledstone.jpeg)
