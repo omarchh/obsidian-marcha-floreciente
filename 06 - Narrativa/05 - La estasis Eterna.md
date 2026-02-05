@@ -14,8 +14,12 @@ Cuando estén en caminándose a la sala de espera, llegara sorpresivamente {{Gim
 Jerina llega a la sala de espera, con una sonrisa de alivio al ver a Hifa, pero sus ojos denotan una profunda preocupación.
 - **Diálogo con Jerina (rápido, en susurros):** _"Hifa, gracias a las esporas que llegaste. Padre está en su estudio con... No ha salido en horas. Madre está conteniendo a los otros nobles en la sala de recepción, pero la tensión es palpable. Algo va muy mal."_
 - **Información clave de Jerina:** _"Hay dos 'clientes'. Uno, un tal Dhur, habla de buscar y destruir una fuente de magia. El otro, el Lord D'Avilon... Hifa, ese hombre me hace temblar las raíces. Habla de absorber, de controlar. Y padre está escuchando."_
+## Enfrentamiento
+Cuando los jugadores se encuentran platicando con Jerina, se escuchan varios guardias moverse hacia el patio corriendo. Jerina saldra de la habitacion dejando a los demas decidir si la siguen o no. Cuando salen se enteran de que hay un ataque en una casa de trabajadores cercana a la fabrica y tienen que ir a hacer algo.
 
-Los jugadores (quizás guiados por Jerina o aprovechando un descuido) llegan a las puertas del estudio. Desde fuera, pueden oír las voces.
+
+
+Despues de haber termiado el combate, los jugadores tendran la oportunidad de pasar por la oficina de Tharmel. Desde fuera, pueden oír las voces.
 
 **Dentro del estudio:** Una sala circular con ventanales que dan al bosque. **Tharmel Mushbloom** (un Fungril noble, con un sombrero de "sombrerillo" de hongo elegante y un bastón de madera viva) está detrás de un escritorio lleno de planos. Frente a él, dos figuras ocupan el espacio con sus presencias opuestas.
 
