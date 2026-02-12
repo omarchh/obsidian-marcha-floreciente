@@ -19,3 +19,6 @@ Mishishira era el **corazón y la memoria** de su comunidad. Mientras Mokashir
 ## Familia
 - Hermana menor: [[Mokashira]]
 - Tia: [[Briony]]
+
+## Imagen
+![Mishishira.png](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CNPCs%5CMishishira.png)
