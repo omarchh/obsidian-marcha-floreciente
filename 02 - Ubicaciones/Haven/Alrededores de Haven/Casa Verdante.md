@@ -1,6 +1,7 @@
 ---
 tags:
   - Organizacion
+  - CasaNoble
 Paises:
   - Haven
 Tipo de Ubicacion:

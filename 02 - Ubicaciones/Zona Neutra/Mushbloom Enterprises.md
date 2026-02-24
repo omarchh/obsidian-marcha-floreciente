@@ -1,6 +1,7 @@
 ---
 tags:
   - Organizacion
+  - CasaNoble
 Paises:
   - Zona Neutra
 Tipo de Ubicacion:
