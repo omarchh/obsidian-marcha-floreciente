@@ -1,6 +1,7 @@
 ---
 tags:
   - Narrativa
+dg-publish: true
 ---
 # Introducción
 Los jugadores han llegado a la costa, encontrándose con una caravana noble que va llegando justo a {{Mushbloom Enterprises}}. Esta caravana trae a {{Elian D'Avilon}} de su viaje desde la {{Capital de Fanewick}}, acompañado por lo que parece ser un grupo de soldados de Haven y por {{Scalus Darkmoor}} y {{Violet}}. El noble simplemente "agradecerá" a Scalus y Violet por acompañarlo y se dirigirá hacia la puerta sin si quiera voltear a ver a los demás.

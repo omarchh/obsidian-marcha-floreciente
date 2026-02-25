@@ -1,6 +1,7 @@
 ---
 tags:
   - Narrativa
+dg-publish: true
 ---
 # Introduccion
  Después de liberar el camino de los animales salvajes, la party se dirige a Fanewick o Haven en búsqueda de más información (esta varía dependiendo de la decisión).

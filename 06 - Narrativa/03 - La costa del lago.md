@@ -1,6 +1,7 @@
 ---
 tags:
   - Narrativa
+dg-publish: true
 ---
 # Introduccion
 Los PCs decidieron seguir su camino sin {{Bert Koch|Bert}} ya que al estar caminando {{Hifa Mushbloom|Hifa}} se conecto a su red micielar y recibio un mensaje de auxilio proveniente del norte de su ubicacion. Temiendo que el unico lugar con Fungril fuera {{Mushbloom Enterprises}}, la party decidio cambiar su rumbo hacia el norte tratando de llegar a la ubicacion de la llamada de Auxilio. Los PCs se dirigen a la costa de un lago que pudiera tener transportes para llegar mas rapido a {{Mushbloom Enterprises}}.

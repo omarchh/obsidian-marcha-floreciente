@@ -5,6 +5,10 @@
     "Clases": "multitext",
     "Ascendencias": "multitext",
     "Tipo de Ubicacion": "multitext",
-    "Estado": "multitext"
+    "Estado": "multitext",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "dg-home": "checkbox",
+    "dg-publish": "checkbox"
   }
 }

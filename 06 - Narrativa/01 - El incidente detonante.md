@@ -1,6 +1,8 @@
 ---
 tags:
   - Narrativa
+dg-home: true
+dg-publish: true
 ---
 # Introduccion
 Esta es la narrativa de las decisiones que han tomado los PCs en el mundo de [[Las tierras florecientes]], se crearan capitulos poco a poco y se uniran en una historia completa.

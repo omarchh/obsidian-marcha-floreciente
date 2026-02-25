@@ -1,6 +1,7 @@
 ---
 tags:
   - Narrativa
+dg-publish: true
 ---
 # Introduccion
 La party ahora deberia estar en el barco de {{Blaze Carbon}}, navegando hacia el norte para llegar a {{Mushbloom Enterprises}} lo mas pronto posible.

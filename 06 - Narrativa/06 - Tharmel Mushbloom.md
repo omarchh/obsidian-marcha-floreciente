@@ -1,3 +1,8 @@
+---
+tags:
+  - Narrativa
+dg-publish:
+---
 ## Introducción
 ### Escena: La Junta en el Estudio de Tharmel
 
