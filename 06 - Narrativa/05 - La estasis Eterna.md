@@ -4,7 +4,7 @@ tags:
 dg-publish: true
 ---
 # Introducción
-Los jugadores han llegado a la costa, encontrándose con una caravana noble que va llegando justo a {{Mushbloom Enterprises}}. Esta caravana trae a {{Elian D'Avilon}} de su viaje desde la {{Capital de Fanewick}}, acompañado por lo que parece ser un grupo de soldados de Haven y por {{Scalus Darkmoor}} y {{Violet}}. El noble simplemente "agradecerá" a Scalus y Violet por acompañarlo y se dirigirá hacia la puerta sin si quiera voltear a ver a los demás.
+Los jugadores han llegado a la costa, encontrándose con una caravana noble que va llegando justo a {{Mushbloom Enterprises}}. Esta caravana trae a {{Elian D'Avilon}} de su viaje desde la {{Capital de Fanewick}}, acompañado por lo que parece ser un grupo de soldados de Haven y por {{Scalus Darkmoor}} y {{Violeta}}. El noble simplemente "agradecerá" a Scalus y Violeta por acompañarlo y se dirigirá hacia la puerta sin si quiera voltear a ver a los demás.
 
 Al llegar Jerina los recibe con una sonrisa de alivio al ver a Hifa, pero sus ojos denotan una profunda preocupación.
 - **Diálogo con Jerina (rápido, en susurros):** _"Hifa, gracias a las esporas que llegaste. Padre está en su estudio con... No ha salido en horas. Madre está conteniendo a los otros nobles en la sala de recepción, pero la tensión es palpable. Algo va muy mal."_

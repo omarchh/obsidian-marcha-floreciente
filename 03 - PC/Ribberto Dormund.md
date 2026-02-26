@@ -34,7 +34,7 @@ SubClase: Wordsmith
 1. ¿Qué te hizo darte cuenta de que íbamos a ser tan buenos amigos?
 	- Conocí a {{Hifa Mushbloom}} en una reunión entre empresarios y diplomáticos de la ciudad, de inmediato me di cuenta que era una persona capaz de atraer a las masas para que escuchen lo que tengo que decir, así que tendría que hacerme su amigo cueste lo que cueste.
 2. ¿Qué hago que te molesta?
-	- {{Violet}}, negar que la falta de acción de tu pueblo le permitió a Haven, invadir Fanewick con más facilidad.
+	- {{Violeta}}, negar que la falta de acción de tu pueblo le permitió a Haven, invadir Fanewick con más facilidad.
 3. ¿Por qué me agarras la mano por la noche?
 	- {{Mokashira}}, te he visto temblar cuando entramos a cuevas obscuras, así que siempre procuro estar cerca cuando el sol cae ya que quiero que sepas que no estas sola y puedes contar con alguien.
 ## Otros

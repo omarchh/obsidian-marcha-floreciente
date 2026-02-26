@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Narrativa/02 - El Camino Elegido.md",
+                "file": "06 - Narrativa/00 - Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - El Camino Elegido"
+              "title": "00 - Introducción"
+            }
+          },
+          {
+            "id": "790b6fc8d9168fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Narrativa/01 - El incidente detonante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - El incidente detonante"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3c7bff9df6f8c8e",
@@ -228,39 +243,43 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1fc4618bfb1bf4e0",
+  "active": "790b6fc8d9168fab",
   "lastOpenFiles": [
+    "06 - Narrativa/00 - Introducción.md",
     "06 - Narrativa/01 - El incidente detonante.md",
-    "src/site/notes/06 - Narrativa/01 - El incidente detonante.md",
+    "02 - Ubicaciones/Las tierras florecientes.md",
+    "02 - Ubicaciones/Zona Neutra/Mushbloom Enterprises.md",
+    "Imagenes/Mushbloom_Enterprises.jpeg",
+    "Imagenes/Portada.jpg",
+    "Imagenes/Portada.jpg",
+    "Imagenes",
+    "06 - Narrativa/03.1 - El viaje a Mushbloom Enterprises.md",
+    "01 - Lore/Deidades/Nikta, la Pastora de las Estaciones.md",
+    "03 - PC/Violeta.md",
+    "06 - Narrativa/02.1 - La travesia del Fauno.md",
+    "06 - Narrativa/05 - La estasis Eterna.md",
+    "03 - PC/Hikuri.md",
+    "03 - PC/Ribberto Dormund.md",
+    "02 - Ubicaciones/Haven/Haven.md",
+    "01 - Lore/Deidades/Shun'Aush, la Ofidia de Granito.md",
     "06 - Narrativa/02 - El Camino Elegido.md",
+    "src/site/notes/06 - Narrativa/01 - El incidente detonante.md",
     "06 - Narrativa/06 - Tharmel Mushbloom.md",
     "src/site/notes/06 - Narrativa",
     "src/site/notes",
     "src/site",
     "src",
-    "06 - Narrativa/05 - La estasis Eterna.md",
     "06 - Narrativa/04 - El viaje de La espora plateada.md",
-    "06 - Narrativa/03.2 - El viaje a Mushbloom Enterprises.md",
     "06 - Narrativa/03 - La costa del lago.md",
-    "06 - Narrativa/02.1 - La travesia del Fauno.md",
     "04 - NPC/Zona Neutra/Mushbloom Enterprises/Borin “Raíz Dura” Kreel.md",
     "Sin título.base",
     "04 - NPC/Fanewick/Capital de Fanewick/Familia Dormund/Albeerto Dormund.md",
     "02 - Ubicaciones/Haven/Alrededores de Haven/Casa Valerius.md",
     "04 - NPC/Zona Neutra/Mushbloom Enterprises/Dalyrin Veiledstone.md",
-    "01 - Lore/Deidades/Shun'Aush, la Ofidia de Granito.md",
     "04 - NPC/Haven/Capital de Haven/Kreil Dirn.md",
     "04 - NPC/Haven/Alrededores de Haven/Pastizales Florecientes/Corvus Verdante.md",
     "01 - Lore/Eventos/Misterios de Mokachino.md",
     "02 - Ubicaciones/Haven/Capital de Haven/Distrito Rojo Despojo Petreo/Los Dados Manchados.md",
-    "06 - Narrativa/Sin título.md",
-    "04 - NPC/Haven/Capital de Haven/Castillo de Haven/Gimmick Dhur.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Tharmel Mushbloom.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Liora Mushbloom.md",
-    "04 - NPC/Zona Neutra/Mushbloom Enterprises/Jerina Mushbloom.md",
-    "03 - PC/Mokachino.md",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Comunidad de Mokashira/Briony.md",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Comunidad de Mokashira/Mishishira.md",
     "Pasted image 20260204174002.png",
     "04 - NPC/Fanewick/Capital de Fanewick/Familia de Waffle",
     "Mushbloom Enterprises - Entrada 2.jpg",
@@ -269,7 +288,6 @@
     "04 - NPC/Haven/Capital de Haven/Castillo de Haven",
     "Archimago Phylax.jpg",
     "04 - NPC/Fanewick/Bosque de Fanewick/Familia de Mokashira",
-    "04 - NPC/Fanewick/Bosque de Fanewick/Hojas Secas",
     "Faneghost.jpeg",
     "Faneghost - Token.png",
     "Sin título.canvas"

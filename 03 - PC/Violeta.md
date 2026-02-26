@@ -41,6 +41,6 @@ La actitud de un hada como se menciona en los cuentos, traviesa y despreocupada,
 - Nombre completo: Violeta Vayoleth de Vitorri Celestial
 - Proviene del [[Bosque de Fanewick]].
 - Su mejor amiga [[Yuka Cac]] esta perdida.
-- En un campamento donde se encontraba jugando con [[Yuka Cac]], sucedió un ataque por parte de Haven. En este ataque [[Yuka Cac]] fue arrebatada de su lado. Cuando se termino la revuelta, se encontró con {{Scalus Darkmoor}}, quien estaba mal herido a punto de morir. Violet lo revitalizo con hierbas y procesos de medicina heredados de su comunidad y le salvo la vida. {{Scalus Darkmoor}} le tomo mucho aprecio ganándose su apodo de Vi, ahora viajando juntos desde entonces.
+- En un campamento donde se encontraba jugando con [[Yuka Cac]], sucedió un ataque por parte de Haven. En este ataque [[Yuka Cac]] fue arrebatada de su lado. Cuando se termino la revuelta, se encontró con {{Scalus Darkmoor}}, quien estaba mal herido a punto de morir. Violeta lo revitalizo con hierbas y procesos de medicina heredados de su comunidad y le salvo la vida. {{Scalus Darkmoor}} le tomo mucho aprecio ganándose su apodo de Vi, ahora viajando juntos desde entonces.
 ## Imagen
 ![Violeta Vayoleth de Vitorri.jpg](file:///C:%5CUsers%5Coalej%5CAppData%5CLocal%5CFoundryVTT%5CData%5CAdventure%20-%20La%20Marcha%20Floreciente%5CPersonajes%5CVioleta%20Vayoleth%20de%20Vitorri.jpg)

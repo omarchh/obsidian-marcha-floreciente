@@ -37,7 +37,7 @@ Sereno y firme, la presencia de Hikuri inspira respeto sin necesidad de violenci
 1. ¿Qué promesa me hiciste aceptar en caso de que murieras en el campo de batalla?
 	- {{Scalus Darkmoor}} - En caso de morir me hizo prometer cuidar a todos y cada uno de los miembros del grupo. 
 2. ¿Por qué me haces tantas preguntas sobre mi dios?
-	- {{Violet}} - Siempre me pregunta por curiosidad hacia las plantas y en caso de ser la planta que ella busca, quiere usarla.
+	- {{Violeta}} - Siempre me pregunta por curiosidad hacia las plantas y en caso de ser la planta que ella busca, quiere usarla.
 3. Me has dicho que proteja a un miembro de nuestro grupo por encima de todos los demás, incluso por encima de ti. ¿Quién es esa persona y por qué?
 	- {{Ribberto Dormund}} - Proteger a {{Hifa Mushbloom}}, para poder tenerla como aliada en después de la guerra.
 ## Otros
