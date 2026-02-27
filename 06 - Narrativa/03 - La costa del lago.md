@@ -3,7 +3,7 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introducción
+# La costa del lago
 Los jugadores decidieron seguir su camino sin Bert ya que al estar caminando Hifa se conecto a su red micelar y recibió un mensaje de auxilio proveniente del norte de su ubicación. Temiendo que el único lugar con Fungril fuera Mushbloom Enterprises, el grupo decidió cambiar su rumbo hacia el norte tratando de llegar a la ubicación de la llamada de Auxilio. Los jugadores se dirigen a la costa de un lago que pudiera tener transportes para llegar mas rápido a Mushbloom Enterprises.
 
 Al llegar a la orilla del lago, el grupo se dispone a descansar un poco, pero prontamente son atacados por criaturas salvajes:

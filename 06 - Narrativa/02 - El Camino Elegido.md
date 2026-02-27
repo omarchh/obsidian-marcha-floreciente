@@ -3,7 +3,7 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introducción
+# El camino elegido
 Después de liberar el camino de los animales salvajes, el grupo decidió ir con Bert Koch y su grupo de personas que se dirige a Fanewick. Viajando por el bosque, se encuentran con un grupo de soldados de Haven, protegiendo lo que pareciera ser un área del bosque ya que se ha encontrado un velo de la dama carmesí. 
 ## Soldados de Haven
 El grupo decidió acercarse un poco y despues de un diálogo descubrieron que los soldados protegían el velo de la dama hasta que vinieran a recogerlo. Mientras que entablaban una conversación para obtener informacion, un grupo de bandidos ataco a los soldados aprovechando la distracción. Esto genero confusion entre los soldados creyendo que los jugadores eran parte de la emboscada y se pusieron en guardia. Un par de momentos despues, el grupo intento ayudar a los soldados luchando en contra de los bandidos, pero tambien trataron de recoger la dama del velo carmesi confundiendolos aun mas. Al derrotar a todos los bandidos, trataron de esconder la dama de velo carmesi para dialogar con los soldados y fue en ese momento que llego Lanlar Quinfiel, el encargado de recoger "la flor roja".

@@ -3,7 +3,7 @@ tags:
   - Narrativa
 dg-publish:
 ---
-## Introducción
+# Tharmel Mushbloom
 ### Escena: La Junta en el Estudio de Tharmel
 
 **Preparación:** Los jugadores han investigado el ataque, tienen el **"Susurro de Shun'Aush"** (la varita petrificadora real) y saben que es un artefacto auténtico, no una ilusión. Ahora Jerina los guía hacia el estudio donde Tharmel sigue reunido con los dos nobles.
@@ -121,10 +121,10 @@ Los jugadores tienen varias opciones:
 |El collar se activa|Caos total en la reunión.|Todos los secretos se desatan a la vez. Huida, persecución o enfrentamiento directo.|
 
 ## NPCs del capitulo
-- {{Jerina Mushbloom}}
-- {{Tharmel Mushbloom}}
-- {{Elian D'Avilon}}
-- {{Gimmick Dhur}}
+- <a class="internal-link" href="Jerina Mushbloom">Jerina Mushbloom</a>
+- <a class="internal-link" href="Tharmel Mushbloom">Tharmel Mushbloom</a>
+- <a class="internal-link" href="Elian D'Avilon">Elian D'Avilon</a>
+- <a class="internal-link" href="Gimmick Dhur">Gimmick Dhur</a>
 ## Paginación
 Capitulo anterior: [[05 - La fabrica de objetos mágicos]]
 Capitulo siguiente: [[07 - El destino fijado]]

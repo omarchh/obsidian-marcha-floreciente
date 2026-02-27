@@ -3,7 +3,7 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introducción
+# La fabrica de objetos mágicos
 Los jugadores han llegado a el muelle de Mushbloom Enterprises, encontrándose con una caravana noble que va llegando al mismo tiempo. Esta caravana trae a Elian D'Avilon de su viaje desde la Capital de Fanewick, acompañado por lo que parece ser un grupo de soldados de Haven. La caravana ya ha dejado a Elian y simplemente estan preparando las cosas para dejar estacionada la carroza.
 
 En la entrada de Mushbloom Enterprises, Scalus y Violeta estan platicando con un soldado de Haven, al darse cuenta de esto los jugadores se reúnen nuevamente.

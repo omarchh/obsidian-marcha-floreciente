@@ -3,7 +3,7 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introduccion
+# El viaje de la espora plateada
 Los jugadores estan en el barco de Blaze Carbon, navegando hacia el norte para llegar a Mushbloom Enterprises lo mas pronto posible. La espora plateada, esta disfrazada sin sus banderas e insignias distintivas, de manera que no sea tan reconocible por cualquiera, ya que Blaze esta tenso al estar haciendo entregas un poco "urgentes" debido a los nobles que estan intentando convencer a Tharmel Mushbloom de sus artefactos.
 
 El barco navega suavemente por el Lago Espejo. La niebla matutina empieza a disiparse. Blaze está en la popa, manejando el timón con una garra experta. Hifa y los demás jugadores están cerca, quizás ayudando con cuerdas o simplemente disfrutando del viaje. Cuando Hifa intenta hablar con Blaze acerca de Mushbloom enterprises este simplemente contesta que 2 nobles que no conoce estan presionando a Tharmel a trabajar para ellos.

@@ -25,6 +25,8 @@ Los jugadores que participan activamente en la campaña son:
 - <a class="internal-link" href="Yara">Yara</a>
 - <a class="internal-link" href="Blaze Carbon">Blaze Carbon</a>
 - <a class="internal-link" href="Elian D'Avilon">Elian D'Avilon</a>
+- <a class="internal-link" href="Jerina Mushbloom">Jerina Mushbloom</a>
+- <a class="internal-link" href="Grindilda">Grindilda</a>
 ## Capítulos de la Historia
 <a class="internal-link" href="01 - El incidente detonante">01 - El incidente detonante</a>
 <a class="internal-link" href="02 - El Camino Elegido">02 - El Camino Elegido</a>
