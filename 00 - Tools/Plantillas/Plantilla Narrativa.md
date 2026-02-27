@@ -2,12 +2,12 @@
 tags:
   - Narrativa
 ---
-# Introduccion
+# Introducción
 
 ## Enfrentamiento: XXXXXX
 
 ## NPCs del capitulo
 
-## Paginacion
+## Paginación
 Capitulo anterior: 
 Capitulo siguiente: 

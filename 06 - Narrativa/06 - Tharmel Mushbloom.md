@@ -126,5 +126,5 @@ Los jugadores tienen varias opciones:
 - {{Elian D'Avilon}}
 - {{Gimmick Dhur}}
 ## Paginación
-Capitulo anterior: [[05 - La estasis Eterna]]
+Capitulo anterior: [[05 - La fabrica de objetos mágicos]]
 Capitulo siguiente: [[07 - El destino fijado]]

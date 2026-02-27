@@ -3,24 +3,26 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introduccion
-Los PCs decidieron seguir su camino sin {{Bert Koch|Bert}} ya que al estar caminando {{Hifa Mushbloom|Hifa}} se conecto a su red micielar y recibio un mensaje de auxilio proveniente del norte de su ubicacion. Temiendo que el unico lugar con Fungril fuera {{Mushbloom Enterprises}}, la party decidio cambiar su rumbo hacia el norte tratando de llegar a la ubicacion de la llamada de Auxilio. Los PCs se dirigen a la costa de un lago que pudiera tener transportes para llegar mas rapido a {{Mushbloom Enterprises}}.
+# Introducción
+Los jugadores decidieron seguir su camino sin Bert ya que al estar caminando Hifa se conecto a su red micelar y recibió un mensaje de auxilio proveniente del norte de su ubicación. Temiendo que el único lugar con Fungril fuera Mushbloom Enterprises, el grupo decidió cambiar su rumbo hacia el norte tratando de llegar a la ubicación de la llamada de Auxilio. Los jugadores se dirigen a la costa de un lago que pudiera tener transportes para llegar mas rápido a Mushbloom Enterprises.
 
-Al llegar a la orilla del lago, la party se dispone a descansar un poco, pero prontamente son atacados por criaturas salvajes:
+Al llegar a la orilla del lago, el grupo se dispone a descansar un poco, pero prontamente son atacados por criaturas salvajes:
 ## Enfrentamiento: El amor salvaje
 - 3 Juvenile Flickerfly
-- 2 Giant Eagle
+- 2 Giant Eagle 
 
-A la mitad del enfrentamiento, {{Yara}} aparece para ayudar a su interes romantico {{Hikuri}}. Al terminar la batalla, Yara les cuenta que esta en una mision de entregar una mensaje, si la persuaden pueden descubrir que ella va en direccion contraria de {{Mushbloom Enterprises}} y el mensaje es para el grupo de {{Faneghost}}. Yara mencionara que vio a unos bandidos o piratas en los alrededores y los dirigira hacia la cabaña cercana en la costa del lago donde los vio, que al parecer funciona como un pequeño muelle.
+A la mitad del enfrentamiento, Yara aparece para ayudar a su interés romántico Hikuri. Al terminar la batalla, Yara les cuenta que esta en una misión de entregar una mensaje, si la persuaden pueden descubrir que ella va en dirección contraria de Mushbloom Enterprises y el mensaje es para el grupo de Faneghost. Yara mencionara que vio a unos bandidos o piratas en los alrededores y los dirigirá hacia la cabaña cercana en la costa del lago donde los vio, que al parecer funciona como un pequeño muelle.
 
-En esa cabaña se establecieron hace poco unos piratas, invadiendola por completo y haciendo que sus dueños anteriores huyesen. Con una investigación (12) pueden descubrir 4 bolsas de oro escondidas entre los tablones del piso y un mensaje cifrado y otro no cifrado, el mensaje no cifrado dice "Entregale esto a Darlyrin". El barco de los piratas pareciera estar en la costa, sin piratas a la vista ya que al parecer fueron a buscar alimento o al pueblo mas cercano a divertirse. Si la party intenta utilizar ese barco, se daran cuenta que necesitan al menos 10 personas para poder navegarlo.
+Los jugadores continúan su viaje hacia la cabaña antes mencionada. Al llegar a la zona, encuentran un barco cerca de un pequeño muelle a un lado de una cabaña. La cabaña esta totalmente vacía y los jugadores investigando en su interior, se dan cuenta que hay un cofre oculto junto con 4 bolsas de oro escondidas entre los tablones del piso, un mensaje cifrado y otro no cifrado, el mensaje no cifrado dice "Entrégale esto a Dalyrin".
 
-Habra un pequeño ataque de zombies. 
+![[Desconocido 1 - Cifrado - Mensaje barco.png]]
 
-Al terminar el combate los jugadores se dieron cuenta que {{Blaze Carbon}} se encontraba en el barco dormido en su camarote. Su tripulacion los lleva por el lago y comienza a explicarles que hay 2 sujetos intentando capturar la atencion de {{Tharmel Mushbloom}} intentando hacer "negocios" con el.
+Al salir de la cabaña y analizar un poco el barco, los jugadores descubren que el barco de los pareciera estar vacio. El grupo intenta utilizar ese barco, pero pronto se dan cuenta que necesitan al menos 10 personas para poder navegarlo.
+
+Mientras que estan analizando el barco, un puñado de zombis llegan a la zona, muertos que han sido infectados con la marcha floreciente y los comienzan a cazar. Al verse muy superados en numero, intentan luchar y llegar al barco donde Ribberto libera totalmente el timon de la parte debajo del agua y elevan el ancla. Cuando estan a punto de zarpar, un puñado de marineros llegan al barco y el capitan del barco sale de su camarote ya que estaba aparentemente dormido. Blaze Carbon se encontraba en el barco dormido en su camarote. El es un trabajador de Mushbloom enterprises y viejo conocido de Hifa. Gracias a esto, su tripulación los lleva por el lago y comienza a explicarles que hay 2 sujetos intentando capturar la atención de Tharmel Mushbloom intentando hacer "negocios" con el.
 ## NPCs del capitulo
-- {{Yara}}
-- Capitan {{Blaze Carbon}}
-## Paginacion
+- <a class="internal-link" href="Yara">Yara</a>
+- <a class="internal-link" href="Blaze Carbon">Blaze Carbon</a>
+## Paginación
 Capitulo siguiente: [[04 - El viaje de La espora plateada]]
 Capitulo anterior: [[02 - El Camino Elegido]]

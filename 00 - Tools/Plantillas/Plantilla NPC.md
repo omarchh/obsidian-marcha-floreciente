@@ -5,8 +5,8 @@ Paises:
 Ascendencias:
 Ubicacion:
 ---
-## Descripcion fisica
-## Descripcion de rol
+## Descripción física
+## Descripción de rol
 
 ## Personalidad
 

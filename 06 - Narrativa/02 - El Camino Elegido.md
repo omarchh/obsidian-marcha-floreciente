@@ -3,34 +3,18 @@ tags:
   - Narrativa
 dg-publish: true
 ---
-# Introduccion
- Después de liberar el camino de los animales salvajes, la party se dirige a Fanewick o Haven en búsqueda de más información (esta varía dependiendo de la decisión).
-En el camino se encuentran con un grupo de soldados Havenitas, protegiendo lo que pareciera ser un área del bosque ya que se ha encontrado un {{velo de la dama carmesí}}. Si la party decide acercarse, dependiendo de cómo lo hagan podrían tener un combate o un simple diálogo de los guardias diciéndoles que se alejen. Los guardias esperan a sus superiores, específicamente a {{Lanlar Quinfel}} quien es un erudito botánico encargado de extraer la flor de manera que no sufra daño alguno.
-La party puede intentar hablar con la guardia, los cuales no compartirán mucha más información de la que es obvia a menos que se les persuada de alguna manera lógica y se intente entablar una relación amistosa con ellos.
-De cualquier manera la unica informacion que tienen es la siguiente:
-- El botanico {{Lanlar Quinfel}} viene por el velo de la dama carmesi.
-- El rango del grupo de soldados es de 5 oficiales y un capitán.
-- {{Soliris Noctis}} es el general del ejército de Haven.
-- No ha habido avistamientos de animales contaminados por los alrededores
-- Protegen la zona ya que hay rebeldes y bandidos que pueden intentar recolectar las flores para sus propios fines.
+# Introducción
+Después de liberar el camino de los animales salvajes, el grupo decidió ir con Bert Koch y su grupo de personas que se dirige a Fanewick. Viajando por el bosque, se encuentran con un grupo de soldados de Haven, protegiendo lo que pareciera ser un área del bosque ya que se ha encontrado un velo de la dama carmesí. 
+## Soldados de Haven
+El grupo decidió acercarse un poco y despues de un diálogo descubrieron que los soldados protegían el velo de la dama hasta que vinieran a recogerlo. Mientras que entablaban una conversación para obtener informacion, un grupo de bandidos ataco a los soldados aprovechando la distracción. Esto genero confusion entre los soldados creyendo que los jugadores eran parte de la emboscada y se pusieron en guardia. Un par de momentos despues, el grupo intento ayudar a los soldados luchando en contra de los bandidos, pero tambien trataron de recoger la dama del velo carmesi confundiendolos aun mas. Al derrotar a todos los bandidos, trataron de esconder la dama de velo carmesi para dialogar con los soldados y fue en ese momento que llego Lanlar Quinfiel, el encargado de recoger "la flor roja".
+## Lanlar Quinfiel
+El erudito botanico de Haven encargado de recoger las flores rojas para su procesamiento en Haven para tratar la enfermedad de la serpiente, llega a la escena y utiliza magia para detectar donde se encuentra el velo, ya que ve al grupo de soldados y el grupo de jugadores tensos y sin cooperar con el. Detecta la flor, se teletransporta a ella y la toma con una "Capsula de vacio magica", un objeto creado por Mushbloom enterprises. Tambien decide que no vale la pena perder tiempo con los jugadores, abriendo una grieta dimensional para que el y los soldados regresen a Haven.
 
-Cuando la party intenta salir de la escena, o pelear contra los soldados, un grupo de bandidos arremete en contra de ellos para intentar robar el velo de la dama carmesí. Si los jugadores deciden aliarse con ellos, estos les ayudarán en la batalla. En caso de no haber entablado una amistad, los guardias protegerán el velo de la dama carmesí de cualquiera que intente acercarse a él.
-## Enfrentamiento: La proteccion del velo de la dama carmesi
-
-- 1 Head Guard
-- 4 Bladed Guard
-- 6 Jagged Knife Bandit
-
-## Posibles finales de capitulo
-1. Si los jugadores ayudan a los guardias, estos les recompensará con una bolsa de oro.
-2. Si los jugadores intentan conseguir el velo de la dama carmesí, pueden tratar de obtenerlo con un tiro de finesse (22) pero si fallan el velo se marchita inmediatamente volviéndose inutil.
-3. Si deciden irse sin realizar ninguna acción, pueden escuchar los gritos de la batalla e intentar volver. El resultado de la batalla se decidirá tirando un dado de 4, donde par es ganada por los soldados y un número non es por los bandidos.
-4. Después del combate, el botánico {{Lanlar Quinfel}} llega a la zona buscando la flor. El trae un objeto mágico para preservar la flor sin que se dañe y poder llevarla a {{Haven}} a su laboratorio para trabajar con ella y realizar la extracción de su savia para crear más medicina para la enfermedad de la serpiente. Si alguien lo amenaza o intenta atacar, este esquivara, se tele transportará hacia la flor y utilizara su paso dimensional para regresar sano y salvo a Haven.
-5. Si los PC se alían con él, puede que los invite a su laboratorio dependiendo de cómo se encuentra el velo de la dama carmesí. Si los PC lo cuidaron lo suficiente y se lo entregan, él estará encantado de mostrarles su procedimiento de extracción, de lo contrario simplemente se marchará evitando dar muchos detalles.
-6. Si los jugadores no deciden acompañarlo a Haven o han dañado la flor, pueden continuar su camino hacia donde se dirigen.
+## La señal de auxilio
+Al terminar la interacción de los jugadores con Lanlar. Siguieron su camino junto con Bert. Al estar viajando aprendieron que el bosque intenta alimentarse de lo que puede, siendo que si se quedan quietos por mucho tiempo en un lugar, las raíces y plantas comenzaran a enredarlos y de alguna manera los consumirán. Al estar caminando, Hifa decidió conectarse a la red micelar para buscar informacion o ver si podía interactuar con alguien. Al conectarse, le llego una llamada de auxilio diciendo "Nos atacan, por favor ayu..." la cual se interrumpió porque al parecer algo le paso a esa persona que estaba conectada a la red micelar. Con esto en mente, el único lugar cercano de donde proviene la señal, era Mushbloom Enterprises. El grupo decidió ir a Mushbloom enterprises debido a que Hifa se preocupo por su familia, dejando de lado a Bert sin antes el dejarles el símbolo de faneghost en sus manos para poder buscar ayuda de ser necesario y viajando hasta el lago para ver si su suerte los guiaba a un barco que los pudiera transportar.
 ## NPCs del capitulo
-- {{Lanlar Quinfel}}
-- {{Bert Koch}}
-## Paginacion
+- <a class="internal-link" href="Lanlar Quinfel">Lanlar Quinfel</a>
+- <a class="internal-link" href="Bert Koch">Bert Koch</a>
+## Paginación
 Capitulo anterior: [[01 - El incidente detonante]]
 Capitulo siguiente: [[03 - La costa del lago]]

@@ -5,7 +5,7 @@ Ascendencias:
 Clases:
 SubClase:
 ---
-## Descripcion fisica
+## Descripción física
 
 ## Personalidad
 

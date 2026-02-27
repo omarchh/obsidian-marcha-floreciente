@@ -4,6 +4,6 @@ tags:
 Estado:
 Ubicacion:
 ---
-## Descripcion
+## Descripción
 
 ## Historia
