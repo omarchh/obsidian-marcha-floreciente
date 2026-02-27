@@ -27,5 +27,6 @@ La mayoría de los jugadores les parecía buena idea seguir a Bert, aunque Scalu
 - <a class="internal-link" href="Bert Koch">Bert Koch</a>
 - <a class="internal-link" href="Bennie Barker">Bennie Barker</a>
 ## Paginación
+Inicio: [[00 - Wiki Home]]
 Capitulo siguiente: [[02 - El Camino Elegido]]
 Capitulo alternativo: [[02.1 - La travesía del Fauno]]
