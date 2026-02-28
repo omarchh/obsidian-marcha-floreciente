@@ -18,3 +18,5 @@ Al terminar la interacción de los jugadores con Lanlar. Siguieron su camino jun
 ## Paginación
 Capitulo anterior: [[01 - El incidente detonante]]
 Capitulo siguiente: [[03 - La costa del lago]]
+## Capitulo paralelo
+[[02.1 - La travesía del Fauno]]

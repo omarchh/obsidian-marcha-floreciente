@@ -29,4 +29,4 @@ La mayoría de los jugadores les parecía buena idea seguir a Bert, aunque Scalu
 ## Paginación
 Inicio: [[00 - Wiki Home]]
 Capitulo siguiente: [[02 - El Camino Elegido]]
-Capitulo alternativo: [[02.1 - La travesía del Fauno]]
+Capitulo siguiente paralelo: [[02.1 - La travesía del Fauno]]

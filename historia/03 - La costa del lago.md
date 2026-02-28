@@ -26,3 +26,5 @@ Mientras que estan analizando el barco, un puñado de zombis llegan a la zona, m
 ## Paginación
 Capitulo siguiente: [[04 - El viaje de La espora plateada]]
 Capitulo anterior: [[02 - El Camino Elegido]]
+## Capitulo paralelo
+[[02.1 - La travesía del Fauno]]

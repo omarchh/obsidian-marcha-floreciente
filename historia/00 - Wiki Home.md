@@ -28,11 +28,11 @@ Los jugadores que participan activamente en la campaña son:
 - <a class="internal-link" href="Jerina Mushbloom">Jerina Mushbloom</a>
 - <a class="internal-link" href="Grindilda">Grindilda</a>
 ## Capítulos de la Historia
-<a class="internal-link" href="01 - El incidente detonante">01 - El incidente detonante</a>
-<a class="internal-link" href="02 - El Camino Elegido">02 - El Camino Elegido</a>
-<a class="internal-link" href="02.1 - La travesía del Fauno">02.1 - La travesía del Fauno</a>
-<a class="internal-link" href="03 - La costa del lago">03 - La costa del lago</a>
-<a class="internal-link" href="03.1 - El viaje a Mushbloom Enterprises">03.1 - El viaje a Mushbloom Enterprises</a>
-<a class="internal-link" href="04 - El viaje de La espora plateada">04 - El viaje de La espora plateada</a>
-<a class="internal-link" href="05 - La estasis Eterna">05 - La estasis Eterna</a>
-<a class="internal-link" href="06 - Tharmel Mushbloom">06 - Tharmel Mushbloom</a>
+<a class="internal-link" href="/historia/01-el-incidente-detonante/">01 - El incidente detonante</a>
+<a class="internal-link" href="/historia/02-El-Camino-Elegido">02 - El Camino Elegido</a>
+<a class="internal-link" href="02.1-La-travesía-del-Fauno">02.1 - La travesía del Fauno</a>
+<a class="internal-link" href="03-La-costa-del-lago">03 - La costa del lago</a>
+<a class="internal-link" href="03.1-El-viaje-a-Mushbloom-Enterprises">03.1 - El viaje a Mushbloom Enterprises</a>
+<a class="internal-link" href="04-El-viaje-de-La-espora-plateada">04 - El viaje de La espora plateada</a>
+<a class="internal-link" href="05-La-estasis-Eterna">05 - La estasis Eterna</a>
+<a class="internal-link" href="06-Tharmel-Mushbloom">06 - Tharmel Mushbloom</a>

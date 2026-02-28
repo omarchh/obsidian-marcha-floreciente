@@ -21,3 +21,5 @@ _"Escúchame bien, chispita (su apodo cariñoso para ella). Cuando llegues, tu p
 ## Paginación
 Capitulo anterior: [[03 - La costa del lago]]
 Capitulo siguiente: [[05 - La fabrica de objetos mágicos]]
+## Capitulo paralelo
+[[03.1 - El viaje a Mushbloom Enterprises]]
